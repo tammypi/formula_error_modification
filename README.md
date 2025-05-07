@@ -1,4 +1,4 @@
-# formular_error_modification
+# formula_error_modification
 
 1.论文
 
